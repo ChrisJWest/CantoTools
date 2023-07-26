@@ -11,4 +11,6 @@ A standalone reader for written Cantonese. Includes Jyutping, frequency informat
 
 A Colab-powered interactive application to scrape Cantonese youtube videos from an offline spreadsheet and present word frequency analysis. Can integrate with Migaku word dictionary information. To access YTCantoParse, either download YTCantoParse.ipynb from this repo and import into Google Colab, or else directly use the link:
 
+<img width="787" alt="YTC" src="https://github.com/ChrisJWest/CantoTools/assets/40185957/ee3b6fec-0a73-488f-a098-c99dc5d09613">
+
 [YTCantoParse](https://colab.research.google.com/drive/1nFfSeoiwsDcdBGTmrR6Tsz1828xjAXO7?usp=sharing)
