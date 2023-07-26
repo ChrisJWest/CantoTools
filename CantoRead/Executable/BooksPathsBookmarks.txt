@@ -1,0 +1,3 @@
+MenCantBePoor1 C:\Users\porti\source\repos\CantoText\CantoText\TestBook.txt 0
+Rhapsody1 C:\Users\porti\source\repos\CantoText\CantoText\TestBook2.txt 1
+Rhapsody2 C:\Users\porti\source\repos\CantoText\CantoText\TestBook3.txt 0
