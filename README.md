@@ -1,9 +1,11 @@
 # CantoTools
 A suite of simple tools to help language learners learn Cantonese. Simple and with minimal focus on aesthetic appeal, but gets the job done.
 
+祝你好學啦
+
 ## CantoRead ##
 
-A standalone reader for written Cantonese. Includes Jyutping, definitions and example sentences extracted from the Words.hk online dictionary and converted into JSON format (included with build). Future builds will focus on text analysis (like in Chinese Text Analyzer), improved dictionary coverage, pre-downloaded learning resources and beautification. Built as a passion project from my love of the Cantonese language and language learning in general.
+A standalone reader for written Cantonese. Includes Jyutping, frequency information and definitions extracted from the Words.hk online dictionary (included with build). Also includes persistent bookmark and known word storage. Future builds will focus on text analysis (like in Chinese Text Analyzer), improved dictionary coverage, pre-downloaded learning resources and beautification (still very basic). Built as a passion project from my love of the Cantonese language and language learning in general.
 
 ## YTCantoParse ##
 
