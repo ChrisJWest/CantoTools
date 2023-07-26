@@ -1,1 +1,1 @@
-
+Just download the folder and run CantoRead.exe. Should run as intended, but this isn't tested outside of my own machine. If it doesn't run for you, I suggest you just build on your own machine from the zipped project file in the Code directory.
